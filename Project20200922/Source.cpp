@@ -4,6 +4,8 @@
 
 
 
+
+
 int main() {
 
 	int x;
@@ -18,7 +20,7 @@ int main() {
 
 
 
-	std::cout << f2(1, 2, 3) << std::endl;
+	std::cout << f2(1, 2) << std::endl;
 
 
 	return 0;
